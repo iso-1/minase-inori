@@ -1,0 +1,45 @@
+body{
+background-color:  #fedded;
+}
+article{
+    background-color: #ffffff;
+}
+/*p{
+    background-image: url("../img/cloud.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 200%;
+}
+*/
+div#left{
+    float: left;
+  }
+.cloud {
+    position: relative;
+}
+.cloud p {
+    position: absolute;
+    top: 22%;
+    left: 4%;
+    font-size: 200%;
+    color:black;
+}
+.example img  {
+    width: 100%;
+}
+
+h1{
+    color: blue; 
+}
+
+p{
+    color: orange;
+
+}
+aside{
+    width:100px
+}
+.absolute{
+    position:absolute;
+    right:50px;
+}
